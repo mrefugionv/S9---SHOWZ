@@ -1,5 +1,5 @@
 # S9---SHOWZ
-Ayudar a optimizar los gastos de marketing para Showz, una empresa de venta de entradas de eventos. Calculos de KPIs (Metricas del negocio).
+Ayudar a optimizar los gastos de marketing para Showz, una empresa de venta de entradas de eventos. Análisis por cohortes, cálculos de KPIs (Metricas del negocio) y visualización de heatmaps (mapas de calor).
 
 ## Descripción
 
