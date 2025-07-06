@@ -5,18 +5,18 @@ Ayudar a optimizar los gastos de marketing para Showz, una empresa de venta de e
 
 Ayudar a optimizar los gastos de marketing para Showz, una empresa de venta de entradas de eventos.
 
-Para ello se requieren obtener la siguiente información:
+Para ello se requiere obtener la siguiente información:
 * Sobre las Visitas:
 * * ¿Cuántas personas lo usan cada día, semana y mes?
   * ¿Cuántas sesiones hay por día? (Un usuario puede tener más de una sesión).
   * ¿Cuál es la duración de cada sesión?
   * ¿Con qué frecuencia los usuarios regresan?
-* Ventas:
+* Sobre las Ventas:
 * * ¿Cuándo empieza la gente a comprar? ( el tiempo (días) que transcurre entre el registro y la conversión, es decir, cuando el usuario se convierte en cliente.)
   * ¿Cuántos pedidos hacen durante un período de tiempo dado?
   * ¿Cuál es el tamaño promedio de compra?
   * ¿Cuánto dinero traen? (LTV)
-* Marketing:
+* Sobre Marketing:
 * * ¿Cuánto dinero se gastó?  (Total/por fuente de adquisición/a lo largo del tiempo)
   *  ¿Cuál fue el costo de adquisición de clientes de cada una de las fuentes?
   *  ¿Cuán rentables eran las inversiones? (ROMI)
